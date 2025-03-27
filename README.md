@@ -75,8 +75,7 @@ SK Networks AI 8기 과정 4번째 단위 프로젝트입니다.
     <td>PyCharm</td>
     <td><img src="https://img.shields.io/badge/pycharm-%23000000?style=flat&logo=pycharm&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></td>
-    td><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/></td>
-  </tr>  
+    <td><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/></td>
   </tr>  
   <tr>
     <td>RDBMS</td>
@@ -84,8 +83,6 @@ SK Networks AI 8기 과정 4번째 단위 프로젝트입니다.
     <td></td>
     <td></td>
   </tr>
-  <tr>
-  
 </table>
 
 >### <span style="color:cyan"> AI </span>
